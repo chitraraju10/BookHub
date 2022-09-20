@@ -1,0 +1,27 @@
+.contact-us-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.contact-icons {
+  height: 16px;
+  width: 16px;
+  color: #3d3c3c;
+  margin: 10px;
+}
+
+.p-contact-us {
+  color: #3d3c3c;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-top: 3px;
+}
+
+.icons-cont {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3px;
+}
